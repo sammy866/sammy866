@@ -1,5 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">A passionate frontend developer from Slovakia</h3>
+<img align="right" width="400px" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
 
 <p align="left"> <a href="https://twitter.com/shamblesammy" target="blank"><img src="https://img.shields.io/twitter/follow/shamblesammy?logo=twitter&style=for-the-badge" alt="shamblesammy" /></a> </p>
 
