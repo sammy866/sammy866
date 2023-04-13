@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/shamblesammy" target="blank"><img src="https://img.shields.io/twitter/follow/shamblesammy?logo=twitter&style=for-the-badge" alt="shamblesammy" /></a> </p>
 
-- 🔭 I’m currently working on my [Portfolio](https://github.com/sammy866/Portfolio)
+- 🔭 I’m currently working on my [Python Projects]([https://github.com/sammy866/Portfolio](https://github.com/sammy866/python-begineer-projects))
 
-- 🌱 I’m currently learning **JavaScript, Bootstrap**
+- 💼 Check out my [Portfolio]([https://sammy866.github.io/Portfolio/])
+
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sammy866?tab=repositories](https://github.com/sammy866?tab=repositories)
 
-- 💬 Ask me about **HTML5, CSS**
+- 💬 Ask me about **HTML5, CSS, JS, Python**
 
 - 📫 How to reach me **samosammy@outlook.com**
 
