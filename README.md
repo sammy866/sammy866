@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shamblesammy" target="blank"><img src="https://img.shields.io/twitter/follow/shamblesammy?logo=twitter&style=for-the-badge" alt="shamblesammy" /></a> </p>
 
-- 🔭 I’m currently working on my [Python Projects](https://github.com/sammy866/Portfolio](https://github.com/sammy866/python-begineer-projects)
+- 🔭 I’m currently working on my [Python Projects](https://github.com/sammy866/python-begineer-projects)
 
 - 💼 Check out my [Portfolio](https://sammy866.github.io/Portfolio/)
 
