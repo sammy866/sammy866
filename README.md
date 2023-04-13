@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sammy866?tab=repositories](https://github.com/sammy866?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/sammy866?tab=repositories) 
 
 - 💬 Ask me about **HTML5, CSS, JS, Python**
 
